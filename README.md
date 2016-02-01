@@ -22,7 +22,7 @@ To compile (Linux):
 To run:
 
     cd [project folder]
-    java -cp bin com.theaigames.blockbattle.Blockbattle [your bot1] [your bot2] 2>err.txt 1>out.txt
+    java -cp bin com.theaigames.fourinarow.FourInARow [your bot1] [your bot2] 2>err.txt 1>out.txt
 
 [your bot1] and [your bot2] could be any command for running a bot process. For instance "java -cp /home/dev/starterbot/bin/ main.BotStarter" or "node /home/user/bot/Bot.js"
 
